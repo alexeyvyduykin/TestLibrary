@@ -9,7 +9,7 @@
     <Company>alexeyvyduykin</Company>
     <Product>TestLibrary</Product>
     <PackageDescription>This TestLibrary package.</PackageDescription>
-    <!--<RepositoryUrl>https://github.com/alexeyvyduykin/TestLibrary</RepositoryUrl>-->
+    <RepositoryUrl>https://github.com/alexeyvyduykin/TestLibrary</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
