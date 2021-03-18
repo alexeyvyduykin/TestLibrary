@@ -8,5 +8,10 @@ namespace TestLibrary
         {
             return 2;
         }
+
+        public int Create2()
+        {
+            return 3;
+        }
     }
 }
