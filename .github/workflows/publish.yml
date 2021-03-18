@@ -19,7 +19,7 @@ jobs:
         dotnet-version: '5.0.x' # SDK Version to use.
         source-url: https://nuget.pkg.github.com/alexeyvyduykin/index.json
       env:
-        NUGET_AUTH_TOKEN: ${{secrets.GITHUB_PAT}}
+        NUGET_AUTH_TOKEN: ${{secrets.GPR_PAT}}
     - name: Build
       run: dotnet build
     - name: Create the package
