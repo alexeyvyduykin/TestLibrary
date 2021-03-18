@@ -13,5 +13,10 @@ namespace TestLibrary
         {
             return 31;
         }
+
+        public int Create3()
+        {
+            return 42;
+        }
     }
 }
