@@ -23,6 +23,6 @@ jobs:
     - name: Build
       run: dotnet build TestLibrary/TestLibrary.csproj
     - name: Create the package
-      run: dotnet pack --no-build --configuration Release TestLibrary/TestLibrary.csproj
+      run: dotnet pack --configuration Release TestLibrary/TestLibrary.csproj
     - name: Publish the package to GPR
       run: dotnet nuget push TestLibrary/bin/Release/*.nupkg
