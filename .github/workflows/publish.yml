@@ -21,8 +21,8 @@ jobs:
       env:
         NUGET_AUTH_TOKEN: ${{secrets.GPR_PAT}}
     - name: Build
-      run: dotnet build
+      run: dotnet build TestLibrary/TestLibrary.csproj
     - name: Create the package
-      run: dotnet pack --no-build --configuration Release
+      run: dotnet pack --no-build --configuration Release TestLibrary/TestLibrary.csproj
     - name: Publish the package to GPR
       run: dotnet nuget push TestLibrary/bin/Release/*.nupkg
