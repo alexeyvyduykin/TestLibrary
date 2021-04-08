@@ -11,7 +11,8 @@
 ## Status
 
 [![CodeFactor](https://www.codefactor.io/repository/github/alexeyvyduykin/globe3dlight/badge/main)](https://www.codefactor.io/repository/github/alexeyvyduykin/globe3dlight/overview/main)
-
+[![GitHub release](https://img.shields.io/github/release/alexeyvyduykin/globe3dlight.svg?style=social)](https://GitHub.com/alexeyvyduykin/globe3dlight/releases/)
+[![GitHub license](https://img.shields.io/github/license/alexeyvyduykin/globe3dlight.svg?style=social)](https://github.com/alexeyvyduykin/globe3dlight/LICENSE)
 
 ## Quick start
 
