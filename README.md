@@ -11,10 +11,10 @@
 ## Status
 
 [![CodeFactor](https://www.codefactor.io/repository/github/alexeyvyduykin/globe3dlight/badge/main)](https://www.codefactor.io/repository/github/alexeyvyduykin/globe3dlight/overview/main)
-[![GitHub release](https://img.shields.io/github/release/alexeyvyduykin/globe3dlight.svg)](https://gitHub.com/alexeyvyduykin/globe3dlight/releases/latest)
-[![GitHub tag](https://img.shields.io/github/tag/alexeyvyduykin/globe3dlight.svg)](https://GitHub.com/alexeyvyduykin/globe3dlight/tags/)
+[![GitHub release](https://img.shields.io/github/release/alexeyvyduykin/globe3dlight.svg?logo=github)](https://gitHub.com/alexeyvyduykin/globe3dlight/releases/latest)
+[![GitHub tag](https://img.shields.io/github/tag/alexeyvyduykin/globe3dlight.svg?logo=github)](https://GitHub.com/alexeyvyduykin/globe3dlight/tags/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![GitHub license](https://img.shields.io/github/license/alexeyvyduykin/globe3dlight.svg)](https://github.com/alexeyvyduykin/globe3dlight/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/alexeyvyduykin/globe3dlight.svg?logo=github)](https://github.com/alexeyvyduykin/globe3dlight/LICENSE)
 
 ## Quick start
 
